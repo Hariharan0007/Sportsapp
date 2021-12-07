@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215919120036",
+    "firebase_url": "https://sports-application-fb909-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sports-application-fb909",
+    "storage_bucket": "sports-application-fb909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215919120036:android:a87b06a55e3db2f580a031",
+        "android_client_info": {
+          "package_name": "com.example.sportsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215919120036-f1n38r1nobmus6m7n6pnct5s5f6hd3bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXm1DuNRq7A9sbo5pLCQu3rZjXRoZe-aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215919120036-f1n38r1nobmus6m7n6pnct5s5f6hd3bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
